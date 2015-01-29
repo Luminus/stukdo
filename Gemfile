@@ -47,5 +47,9 @@ group :development, :test do
 
   # Use Font Awesome Webfonts for cool style points
   gem 'font-awesome-rails'
+
+  # Use Simple Form & Country Select
+  gem 'simple_form'
+  gem 'country_select'
 end
 
