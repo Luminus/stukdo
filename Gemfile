@@ -44,5 +44,8 @@ group :development, :test do
 
   # Use Bootstrap
   gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
+
+  # Use Font Awesome Webfonts for cool style points
+  gem 'font-awesome-rails'
 end
 
