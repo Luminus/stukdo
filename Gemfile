@@ -51,5 +51,8 @@ group :development, :test do
   # Use Simple Form & Country Select
   gem 'simple_form'
   gem 'country_select'
+
+  # Use Device for User Authentication
+  gem 'devise'
 end
 
