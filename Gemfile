@@ -54,5 +54,8 @@ group :development, :test do
 
   # Use Device for User Authentication
   gem 'devise'
+
+  # Automatically render html links and media (images, video, etc) from plain text entries.
+  gem 'auto_html'
 end
 
