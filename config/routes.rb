@@ -67,4 +67,5 @@ Rails.application.routes.draw do
   #   end
 
   get 'about' => 'pages#about'
+  get 'test' => 'pages#test'
 end
